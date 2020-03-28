@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "oshop"
+    }
+  },
+  "defaultProject": "oshop",
+  "cli": {
+    "analytics": false
+  }
 }
